@@ -1,0 +1,9 @@
+# downloaded source files (~190 MB) and derived caches
+data/
+cache/
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
+*_explained.ipynb
